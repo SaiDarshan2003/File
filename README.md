@@ -4,21 +4,14 @@
  To write a C# program to store the student details in file using structure concept.
 
 ## Algorithm:
-### Step 1:
-Create a file using FileStream.
-### Step 2:
-Create a structure for student details.
-### Step 3:
-Get the number of students and their details from user.
-### Step 4:
-Define a function to write the details of student into the created file.
-### Step 5:
-Pass the details of student to the function.
-### Step 6:
-File has been created and written with student details.
-
+### Step 1:Create a file using FileStream.
+### Step 2:Create a structure for student details.
+### Step 3:Get the number of students and their details from user.
+### Step 4:Define a function to write the details of student into the created file.
+### Step 5:Pass the details of student to the function.
+### Step 6:File has been created and written with student details.
 ## Program:
-```c#
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -70,9 +63,7 @@ public class program
     }
 }
 ```
-
 ## Output:
 ![Screenshot (233)](b.png)
-
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
