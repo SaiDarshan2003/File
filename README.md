@@ -72,7 +72,7 @@ public class program
 ```
 
 ## Output:
-![Screenshot (233)](https://user-images.githubusercontent.com/75234807/173847121-12d9a6f4-ec81-4be0-8d5f-34824153a9fb.png)
+![Screenshot (233)](b.png)
 
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
